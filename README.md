@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EllySmore
 - 👀 I’m interested in food. 
-- 🌱 Was doing android and now I'm a web designer???? 
+- 🌱 Android + React Native
 
 <!---
 EllySmore/EllySmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
